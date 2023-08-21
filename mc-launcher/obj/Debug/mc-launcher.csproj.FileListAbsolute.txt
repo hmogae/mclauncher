@@ -1,0 +1,11 @@
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\bin\Debug\mc-launcher.exe.config
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\bin\Debug\mc-launcher.exe
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\bin\Debug\mc-launcher.pdb
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc-launcher.csproj.AssemblyReference.cache
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc-launcher.csproj.SuggestedBindingRedirects.cache
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc_launcher.Form1.resources
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc_launcher.Properties.Resources.resources
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc-launcher.csproj.GenerateResource.cache
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc-launcher.csproj.CoreCompileInputs.cache
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc-launcher.exe
+D:\3. 하윤폴더\컴퓨터 공부\.vs\mc\mc-launcher\mc-launcher\obj\Debug\mc-launcher.pdb
